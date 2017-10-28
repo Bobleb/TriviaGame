@@ -3,3 +3,7 @@
 	text-align:center;
 	font-size:32px;
 }
+.image_line{
+	max-height:512px;
+	max-width:512px;
+}
